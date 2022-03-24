@@ -76,7 +76,7 @@ Kuhse, Helga, and Peter Singer. "What is Bioethics? A Historical Introduction." 
 
 Lock, Margaret, and Nancy Scheper Hughes. "A Critical-Interpretive Approach in Medical Anthropology: Rituals and Routines of Discipline and Dissent." Chapter 3 in _Medical Anthropology: Contemporary Theory and Method_. Revised ed. Edited by Carolyn F. Sargent and Thomas M. Johnson. Praeger, 1996. ISBN: 9780275952655.
 
-Rosenberg, Charles E. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Meaning, Policies, and Medicine: On the Bioethical Enterprise and History." (PDF)](http://dash.harvard.edu/bitstream/handle/1/4730333/Rosenberg_Meanings.pdf?sequence=1) _Daedalus_ 128, no. 4 (1999): 27–46.
+Rosenberg, Charles E. ["Meaning, Policies, and Medicine: On the Bioethical Enterprise and History." (PDF)](http://dash.harvard.edu/bitstream/handle/1/4730333/Rosenberg_Meanings.pdf?sequence=1) _Daedalus_ 128, no. 4 (1999): 27–46.
 
 Rose, Nikolas, and Carlos Novas. "Biological Citizenship." Chapter 23 in _Global Assemblages: Technology, Politics, and Ethics as Anthropological Problems_. Edited by Aihwa Ong and Stephen J. Collier. Wiley-Blackwell, 2004. ISBN: 9781405123587. \[Preview with [Google Books](http://books.google.com/books?id=lPP-L3155QYC&pg=PA439=onepage)\]
 
