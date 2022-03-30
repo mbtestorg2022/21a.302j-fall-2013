@@ -5,6 +5,7 @@ description: Writing assignment to compare and contrast the medical socializatio
   described in the works of Good, Good, and Wendland.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/21a-302j-dilemmas-in-bio-medical-ethics-playing-god-or-doing-good-fall-2013/8713a424e221e4393c664465eb7d5990_MIT21A_302JF13_Paper_1.pdf
 file_type: application/pdf
+parent_uid: 9831ab93-b81e-4066-931c-dd50c9884cf7
 resourcetype: Document
 title: Paper 1
 uid: 8713a424-e221-e439-3c66-4465eb7d5990
